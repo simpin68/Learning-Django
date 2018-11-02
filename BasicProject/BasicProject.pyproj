@@ -44,6 +44,7 @@
     <Compile Include="BasicProject\wsgi.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HelloDjangoApp\site.css" />
     <Content Include="HelloDjangoApp\templates\index.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
